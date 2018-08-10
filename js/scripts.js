@@ -3,7 +3,10 @@ var a = parseFloat(prompt("side a"));
 var b = parseFloat(prompt("side b"));
 var c = parseFloat(prompt("side c"));
 
- if(a===b && a===c && b===c){
+if(isNaN(a) || isNaN(b) || isNaN(c)) {
+alert("Enter a number!");
+}
+else if(a===b && a===c && b===c){
 alert("Equilateral Triangle");
 }
 else if(a===b || a===c || b===c){
@@ -16,4 +19,3 @@ else{
 alert("Scalene Triangle");
 }
 }
-knowTriangle();
