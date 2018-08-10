@@ -1,6 +1,6 @@
 # Triangle-Tracker
 # Program Description
-This appliication allows one to identify types of triangles by entering any desired dimensions and it will tell the person whether the dimensions add up up to an Equlateral triangle, Isosceles triangle or Scalene triangle.
+This appliication allows one to identify types of triangles by entering any desired dimensions and it will tell the person whether the dimensions add up up to an Equlateral triangle, Isosceles or Scalene.
 # Setup Instructions
 clone the link from my github under the title above and then run it on any desired browser.
 # Technologies Used
